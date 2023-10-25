@@ -103,3 +103,5 @@ Average Sales by Category: This measures the average sales value for each produc
 </table>
 
 ## Few KPIs
+
+![](https://github.com/TomiiOkotie/Strategic-Analysis-into-Business-Data-for-Informed-Decison-Making/blob/main/KPI2.png)
