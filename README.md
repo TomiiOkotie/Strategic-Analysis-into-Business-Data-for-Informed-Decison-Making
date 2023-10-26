@@ -105,3 +105,18 @@ Average Sales by Category: This measures the average sales value for each produc
 ## Few KPIs
 
 ![](https://github.com/TomiiOkotie/Strategic-Analysis-into-Business-Data-for-Informed-Decison-Making/blob/main/KPI2.png)
+
+
+Upon analysing the business data, it uncovered essential insights that provide a comprehensive understanding of the operations. These insights shed light on the financial health of the business and offer a clear path for strategic decision-making.
+
+The total revenue for the specified period amounts to $2,297,200.86 and has generated a total profit of $286,397.02. This indicates that the core business is performing well in generating revenue and profitability.
+
+Discount management is an area of interest, given its contribution of $1,561.09 to the revenue. Careful examination of discount strategies could further enhance profitability without compromising competitive edge.
+
+The average revenue per transaction is $229.86, emphasising the significance of each sale that was made. With 9,994 recorded sales, the business maintains a consistent flow of transactions, which is crucial for sustained growth.
+
+The profit margin of approximately 12.47% is a testament to our ability to effectively convert revenue into profit. 
+
+In summary, the data highlights the overall health of the business and indicates opportunities for improvement. The business should concentrate on optimizing discount strategies, sustaining our robust sales volume, and exploring profitable product categories and customer segments. 
+
+By addressing these areas, the business can build upon the existing success and make informed decisions to enhance our business's performance and profitability.
